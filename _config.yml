@@ -1,9 +1,9 @@
-# Site settngs
-title :  ''Sitio web de Humanidades Digitales: reflexiones filosóficas y más''
+# Site settings
+title :  ''Sitio del curso Humanidades Dígitales: reflexiones filosóficas y  más.''
 author:
   name: Paulina Michelle Mendoza
   mail: 00paumendoza@gmail.com
-description: ''Sitio para el curso de Humanidades Digiates impartido por Ernesto Priani.'' 
+description: ''Sitio para el curso de Humanidades Digiates impartido por Ernesto Priani, en el que se expondrán actividades, reflexiones y discusiones acerca de temas relacionados con las humanidades digitales.''
 
 # Build settings
 remote_theme: jekyll/minima
