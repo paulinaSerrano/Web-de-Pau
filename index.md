@@ -2,7 +2,7 @@
 layout: home
 ---
 
-¡Bienvenidos a mi blog! En donde se publicarán actividades y, ocasionalmente, reflexiones filosóficas.
+¡Bienvenidos a mi blog! En donde se publicarán actividades y, ocasionalmente, reflexiones filosóficas. :smile:
 
 
 Actividades:
