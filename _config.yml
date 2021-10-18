@@ -7,3 +7,5 @@ description: Sitio para el curso de Humanidades Digiates impartido por Ernesto P
 
 # Build settings
 remote_theme: jekyll/minima
+
+theme: jekyll-theme-slate
