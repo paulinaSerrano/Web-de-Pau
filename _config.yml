@@ -7,3 +7,5 @@ description: Sitio para el curso de Humanidades Digiates impartido por Ernesto P
 
 # Build settings
 theme: jekyll-theme-cayman
+baseurl: /paulinaserrano/kittycat.git
+url: https://paulinaserrano.github.io/kittycat/
