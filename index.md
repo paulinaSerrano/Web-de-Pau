@@ -4,8 +4,8 @@ layout: home
 
 Bienvenido/a a este pequeño blog dedicado a la Filosofía Antigua, en donde las humanidades digitales se combinan con la relfexión.
 En las próximas líneas estarás echando un vistazo a una colección de fragmentos que datan alrededor del siglo V a.c., en torno a
-la cuestión de la teoría de a¿la metempsicosis, o mejor conocida, como la teoría de la reencarnación. ¿Te habpias preguntado se dónde
-surgió? ¿No? Bueno, aquí te enterarás!❤️
+la cuestión de la teoría de la metempsicosis, o mejor conocida, como la teoría de la reencarnación. ¿Te habías preguntado de dónde
+surgió? ¿No? Bueno, aquí te enterarás! ❤️
 
 
 Actividades:
