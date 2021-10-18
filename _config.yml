@@ -6,4 +6,4 @@ author:
 description: Sitio para el curso de Humanidades Digiates impartido por Ernesto Priani, en el que se expondrán actividades, reflexiones y discusiones acerca de temas relacionados con las humanidades digitales.
 
 # Build settings
-theme: jekyll-theme-cayman
+remote_theme: jekyll-theme-Slate
