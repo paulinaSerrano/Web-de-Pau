@@ -1,4 +1,6 @@
-
+---
+layout: home
+---
 
 Bienvenido/a a este pequeño blog dedicado a la Filosofía Antigua, en donde las humanidades digitales se combinan con la relfexión.
 En las próximas líneas estarás echando un vistazo a una colección de fragmentos que datan alrededor del siglo V a.c., en torno a
