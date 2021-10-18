@@ -7,8 +7,10 @@ En las próximas líneas estarás echando un vistazo a una colección de fragmen
 la cuestión de la teoría de la metempsicosis, o mejor conocida, como la teoría de la reencarnación. ¿Te habías preguntado de dónde
 surgió? ¿No? Bueno, aquí te enterarás! ❤️
 
-
-Actividades:
+---
+layout: Actividades del curso
+---
+Da click en las siguientes ligas para enterarte de actividades orientadas a pensar la naturaleza del Texto Digital
 
 - [Actividad 1](https://docs.google.com/document/d/1MbotJzewdvXEE1eV8s56UZrFhpG75zNrph3QI81U1OY/edit)
 - [Actividad 2](https://docs.google.com/presentation/d/1hEoJQiTYMGfjNjHCyecqLppD_1H0Fyw_CP7ENhacau4/edit#slide=id.p1)
