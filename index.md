@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 ---
 
 Bienvenido/a a este pequeño blog dedicado a la Filosofía Antigua, en donde las humanidades digitales se combinan con la relfexión.
