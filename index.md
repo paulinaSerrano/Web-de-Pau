@@ -16,5 +16,4 @@ Da click en las siguientes ligas para enterarte de actividades orientadas a pens
 
 😸
 
-# Build Setting
-theme: jekyll-theme-slate
+
