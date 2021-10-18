@@ -8,7 +8,8 @@ la cuestión de la teoría de la metempsicosis, o mejor conocida, como la teorí
 surgió? ¿No? Bueno, aquí te enterarás! ❤️
 
 ---
-
+layout: post
+---
 Da click en las siguientes ligas para enterarte de actividades orientadas a pensar la naturaleza del Texto Digital
 
 - [Actividad 1](https://docs.google.com/document/d/1MbotJzewdvXEE1eV8s56UZrFhpG75zNrph3QI81U1OY/edit)
