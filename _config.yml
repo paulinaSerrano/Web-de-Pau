@@ -5,5 +5,5 @@ author:
   email: 00paumendoza@gmail.com
 description: Sitio para el curso de Humanidades Digiates impartido por Ernesto Priani, en el que se expondrán actividades, reflexiones y discusiones acerca de temas relacionados con las humanidades digitales.
 # Build settings
-remote_theme: jekyll-theme-yat-1.8.0
+theme: jekyll-theme-cayman
  
