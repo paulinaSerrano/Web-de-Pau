@@ -8,7 +8,7 @@ la cuestión de la teoría de la metempsicosis, o mejor conocida, como la teorí
 surgió? ¿No? Bueno, aquí te enterarás! ❤️
 
 ---
-<h1>Actividades del curso Humaidades Digitales:</h1>
+<h1>Actividades del curso Humanidades Digitales:</h1>
 
 
 Da click en las siguientes ligas para enterarte de actividades orientadas a pensar la naturaleza del Texto Digital
