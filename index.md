@@ -8,7 +8,7 @@ la cuestión de la teoría de la metempsicosis, o mejor conocida, como la teorí
 surgió? ¿No? Bueno, aquí te enterarás! ❤️
 
 ---
-Actividades del curso Humaidades Digitales:
+<h1>Actividades del curso Humaidades Digitales:</h1>
 
 
 Da click en las siguientes ligas para enterarte de actividades orientadas a pensar la naturaleza del Texto Digital
@@ -18,7 +18,7 @@ Da click en las siguientes ligas para enterarte de actividades orientadas a pens
 
 😸
 ---
-<h1>Fragmentos presocráticos: Empédocles de Agrigento</h1>
+<h2>Fragmentos presocráticos: Empédocles de Agrigento</h2>
 
 107(115)
 
