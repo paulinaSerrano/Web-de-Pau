@@ -21,42 +21,71 @@ Da click en las siguientes ligas para enterarte de actividades orientadas a pens
 Fragmentos presocráticos: Empédocles de Agrigento
 
 107(115)
+
 Hay un decreto de Necesidad, de antiguo refrendado por los dioses,
-eterno, sellado por prolijos juramentos: 
+
+eterno, sellado por prolijos juramentos:
+
 «Cuando alguno, por errores de su mente, contamina sus miembros
+
 y viola portal yerro el juramento que prestara 
--hablo de démones a los que toca una vida perdurable-,                                                     5
+
+-hablo de démones a los que toca una vida perdurable-,                                   5 
+
 ha de vagar por tiempos tres veces incontables, lejos de los Felices,
+
 en la hechura de formas de mortales, variadas en el tiempo
+
 mientras que va alternando los procelosos rumbos de la vida,
-pues la fuerza del éter lo impulsa hacia la mar 
-y la mar vuelve a escupirlo al terreno de la tierra, y a su vez ésta a los fulgores                        10
+
+pues la fuerza del éter lo impulsa hacia la mar
+
+y la mar vuelve a escupirlo al terreno de la tierra, y a su vez ésta a los fulgores      10
+
 del sol resplandeciente, mas él lo precipita a los vórtices del éter;
+
 cada uno de otro lo recibe, mas todos lo aborrecen», 
+
 Yo soy uno de ellos, desterrado de los dioses, errabundo,
+
 y es que en la discordia enloquecida puse mi confianza.
 
+
 113(121)
+
 Un sitio ingrato,
+
 donde el crimen, la inquina y otros seres funestos en tropel,
+
 enfermedades miserables, podres, a más de hidropesías,
+
 por el prado de Ruina, andan en lo oscuro merodeando.
 
 120(139)
+
 ¡Ay de mí, que no acabó conmigo un día implacable,
+
 antes de concebir la acción abominable de que mis labios devoraran carne!
 
 122(136)
+
 ¿No pondréis fin a esta matanza disonante? ¿No estáis viendo
+
 que os devoráis unos a otros por la incuria de vuestra inteligencia?
 
 124(137)
+
 Alza el padre a un hijo suyo transmutado en su figura
+
 y entre plegarias se apresta a degollarlo, el enorme infeliz. Y los otros, sin saber lo que hacen,
+
 lo sacrifican, aun cuando los implora. Pero aquél, sordo a los quejidos,
 después de degollarlo, en las estancias dispone el sórdido festín.                                        5
+
 De igual modo un hijo que toma a su padre o a su madre
+
 unos niños
+
 les arrancan la vida y devoran la carne antes amada.
 
 
