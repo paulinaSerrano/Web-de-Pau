@@ -18,7 +18,7 @@ Da click en las siguientes ligas para enterarte de actividades orientadas a pens
 
 😸
 ---
-<title type=''sub''>Fragmentos presocráticos: Empédocles de Agrigento</title>
+<h1>Fragmentos presocráticos: Empédocles de Agrigento</h1>
 
 107(115)
 
