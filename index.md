@@ -82,7 +82,7 @@ Da click en las siguientes ligas para enterarte de actividades orientadas a pens
    mientras que va alternando los procelosos rumbos de la vida,<br>
     
     
-   pues <distinct type=''metáfora''>la fuerza del <term type=''concepto filosófico''>éter</term></distinct> lo impulsa hacia la <term type=''concepto filosófico>mar</term><br>
+   pues <distinct type=''metáfora''>la fuerza del éter</distinct> lo impulsa hacia la <term type=''concepto filosófico>mar</term><br>
     
     
    y la mar vuelve a escupirlo al terreno de la <term type=''concepto filosófico''>tierra</term>, y a su vez ésta a los fulgores<br>
@@ -133,8 +133,6 @@ Da click en las siguientes ligas para enterarte de actividades orientadas a pens
     
     
    antes de concebir la <interp type=''allusion''>acción abominable</interp> de que <interp type=''theme related to pythagoreanism''>mis labios devoraran carne</interp>!<br>
-    
-    
    </div>
 
    
@@ -144,7 +142,6 @@ Da click en las siguientes ligas para enterarte de actividades orientadas a pens
    <idno type=''Fragmento DK''>122(136)</idno>
     
     
-    
    ¿No pondréis fin a esta <interp type=''image''>matanza disonante</interp> ¿No estáis viendo<br>
     
     
@@ -152,12 +149,8 @@ Da click en las siguientes ligas para enterarte de actividades orientadas a pens
    </div>
 
    
-   
-
    <div type=''Fragmento''>
   <idno type=''FRagmento DK''>124(137)</idno>
-    
-    
     
     
    Alza el padre a un hijo suyo transmutado en su figura<br>
