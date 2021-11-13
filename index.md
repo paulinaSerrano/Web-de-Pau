@@ -153,13 +153,13 @@ Da click en las siguientes ligas para enterarte de actividades orientadas a pens
    </div>
 
    
-   <br>
+   
 
    <div type=''Fragmento''>
   <idno type=''FRagmento DK''>124(137)</idno>
     
     
-    <br>
+    
     
    Alza el padre a un hijo suyo transmutado en su figura<br>
     
