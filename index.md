@@ -125,11 +125,13 @@ Da click en las siguientes ligas para enterarte de actividades orientadas a pens
    
    <br>
 
+   
    <div type=''Fragmento''>
    <idno type=''Fragmento DK''>120(139)</idno>
     
     
    <br>
+    
     
    ¡Ay de mí, que no acabó conmigo un día implacable,<br>
     
@@ -140,6 +142,7 @@ Da click en las siguientes ligas para enterarte de actividades orientadas a pens
    
    <br>
 
+   
    <div type=''Fragmento''>
    <idno type=''Fragmento DK''>122(136)</idno>
     
@@ -150,6 +153,9 @@ Da click en las siguientes ligas para enterarte de actividades orientadas a pens
    que os <interp type=''theme related to pythagoreanism''>devoráis unos a otros</interp> por la incuria de vuestra inteligencia?<br>
    </div>
 
+   
+   <br>
+   
    
    <div type=''Fragmento''>
   <idno type=''FRagmento DK''>124(137)</idno>
