@@ -144,7 +144,6 @@ Da click en las siguientes ligas para enterarte de actividades orientadas a pens
    <idno type=''Fragmento DK''>122(136)</idno>
     
     
-    <br>
     
    ¿No pondréis fin a esta <interp type=''image''>matanza disonante</interp> ¿No estáis viendo<br>
     
