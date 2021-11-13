@@ -20,6 +20,8 @@ Da click en las siguientes ligas para enterarte de actividades orientadas a pens
 ===
 
 ### Fragmentos presocráticos: Empédocles sobre la cuestión pitagórica-religiosa
+
+
 <?xml version=''1.0'' encoding=''UTF-8''?>
 <?xml-model href=''http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/teilite.rng'' schematypens=''http://relaxng.org/ns/structure/1.0''?>
 <TEI xmlns=''http://www.tei-c.org/ns/1.0''>
@@ -56,21 +58,33 @@ Da click en las siguientes ligas para enterarte de actividades orientadas a pens
     
    <br>
     
-   <p type=''Fragmento''>Hay un decreto de <distinct type=''deidad antigua>Necesidad</distinct>, de antiguo refrendado por los dioses,<br>
+   Hay un decreto de <distinct type=''deidad antigua>Necesidad</distinct>, de antiguo refrendado por los dioses,<br>
+    
    eterno, sellado por prolijos juramentos:<br>
+    
    <cit>«Cuando alguno, por errores de su mente, <term type=''concepto filosófico'' xml : lang=''Greek''>contamina</term> sus miembros<br>
+    
    y viola portal yerro el juramento que prestara<br>
+    
    -hablo de <foreign xml : lang=''Greek''>démones</foreign> a los que toca una vida perdurable-,<br>
+    
    ha de vagar por tiempos tres veces incontables, lejos de <distinct type=''metáfora''>los Felices</distinct>,<br>
+    
    en la hechura de formas de mortales, variadas en el tiempo<br>
+    
    mientras que va alternando los procelosos rumbos de la vida,<br>
+    
    pues <distinct type=''metáfora''>la fuerza del <term type=''concepto filosófico''>éter</term></distinct> lo impulsa hacia la <term type=''concepto filosófico>mar</term><br>
+    
    y la mar vuelve a escupirlo al terreno de la <term type=''concepto filosófico''>tierra</term>, y a su vez ésta a los fulgores<br>
+    
    del <distinct type=''metáfora''>sol resplandeciente</distinct>, mas él lo precipita a los <distinct type=''metáfora''>vórtices del éter</distinct>;<br>
+    
    cada uno de otro lo recibe, mas todos lo aborrecen»</cit>,<br>
+    
    Yo soy uno de ellos, desterrado de los dioses, errabundo,<br>
+    
    y es que en la <term type=''concepto filosófico''>discordia</term> enloquecida puse mi confianza.
-   </p>
    </div>
 
    <br>
