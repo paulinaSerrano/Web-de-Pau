@@ -30,7 +30,7 @@ No hay que perder de vista que, su doctrina religiosa está en perfecta concorda
 
 A continucación se presenta una breve selección de fragmentos empedócleos que pretenden condensar la influencia órfico-pitagórica en este pensador. Como es sabido, resulta muy difícil separar, en el mejor de los casos, los resquicios órficos de los pitágoricos, ya que estas dos religiones son en alto grado similares, por ello es que abrevamos los dos términos como uno sólo para subrayar la influencia de esta tradición religiosa en Empédocles.  
 
-Empleando el recurso argumentativo de la Edad de Oro, el autor, pone de relieve que aquellos que han contaminado su alma al desobedecer los preceptos religiosos, son condenados a errar en el mundo terrenal con forma de humanos durante ciclos de tres vidas; si la purificación del alma es conseguida en este ciclo mediante una estricta adherencia a los preceptos religiosos ...preceptos que toma del pitagorismo..., el individuo será capaz de volver, en una siguiente reencarnación, a la divina unión con el universo, es decir, con Amor y Discordia, primeros principios o motores del mundo y los objetos.
+Empleando el recurso argumentativo de la Edad de Oro, el autor, pone de relieve que aquellos que han contaminado su alma al desobedecer los preceptos religiosos, son condenados a errar en el mundo terrenal con forma de humanos durante ciclos de tres vidas; si la purificación del alma es conseguida en este ciclo mediante una estricta adherencia a los preceptos religiosos —preceptos que toma del pitagorismo—, el individuo será capaz de volver, en una siguiente reencarnación, a la divina unión con el universo, es decir, con Amor y Discordia, primeros principios o motores del mundo y los objetos.
 
 <br>
 
