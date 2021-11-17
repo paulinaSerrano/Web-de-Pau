@@ -51,9 +51,12 @@ Da click en las siguientes ligas para enterarte de actividades orientadas a pens
   `</fileDEsc>`
  `</teiHeader>`
  `<text>`
-  `<body>`
-   `<div type=''Fragmento''>`
-   `<idno type=''Fragmento DK''>`107(115)`</idno>`
+  `<body>`  
+  
+   `<div type=''Fragmento''>`  
+   
+   `<idno type=''Fragmento DK''>`107(115)`</idno>`  
+   
     
    <br>
     
