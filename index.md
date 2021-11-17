@@ -88,9 +88,7 @@ Da click en las siguientes ligas para enterarte de actividades orientadas a pens
    y es que en la `<term type=''concepto filosófico''>`discordia`</term>` enloquecida puse mi confianza.  
    
    `</div>`  
-     
-     
-
+   
    `<div type=''Fragmento''>`  
    
    `<idno type=''Fragmento DK''>`113(121)`</idno>`  
