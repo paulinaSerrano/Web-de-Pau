@@ -19,7 +19,15 @@ Da click en las siguientes ligas para enterarte de actividades orientadas a pens
 😸
 ===
 
-### Fragmentos presocráticos: Empédocles sobre la cuestión pitagórica-religiosa
+### Fragmentos presocráticos: Empédocles sobre la cuestión pitagórico-religiosa 
+
+Empedocles de Agrigento es un filósofo-poeta al que no siempre se le pone la atención que merece. Detrás de sus dos poemas, algo oscuros, hay una revelación de la que quizá él mismo era inconsciente: La filosofía empedoclea es una síntesis de la filosofía de Parménides y Heráclito. -	En el mejor de los casos, cuando estudiamos el pensamiento de este itálico, es su poema _Peri Physeos_ el que se lleva toda la atención, descuidando la dimensión religiosa, profundamente influenciada por el pitagorismo de su pensamiento, explayada en sus _Katharmoi_.  
+Se tiene noticia de que Empédocles viajó al sur de Italia por ciudades bajo la influencia del orfismo y pitagorismo, por lo que es plausible que de estas corrientes filosófico-religiosas extrajera parte de su doctrina religiosa y moral.  Paradójicamente, a diferencia del celo con el que órficos y pitagóricos guardaban sus doctrinas de los no iniciados, el poeta de Agrigento, respecto a su pensamiento religioso, lo dirige al público en general, con la abierta intención de preverlos del _μίασμα_ del alma.  
+No hay que perder de vista que, su doctrina religiosa está en perfecta concordancia con su filosofía física. Para este filósofo, __Amor__ y __Discordia__ son la _ἀρχή_ del universo, y estos dos principios regulan el macro y microcosmos, es decir, al mundo en su totalidad y al hombre. En ese sentido, las _Purificaciones o Katharmoi_ son sus investigaciones sobre la injerencia de estos principios en la vida del ser humano.
+
+
+<br>
+
 
 `<?xml version=''1.0'' encoding=''UTF-8''?>`
 `<?xml-model href=''http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/teilite.rng'' schematypens=''http://relaxng.org/ns/structure/1.0''?>`
