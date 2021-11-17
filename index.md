@@ -130,7 +130,7 @@ Da click en las siguientes ligas para enterarte de actividades orientadas a pens
     
    ¿No pondréis fin a esta `<interp type=''image''>`matanza disonante`</interp>` ¿No estáis viendo<br>  
     
-   que os `<interp type=''theme related to pythagoreanism''>`devoráis unos a otros`</interp>` por la incuria de vuestra inteligencia?<br>
+   que os `<interp type=''precepto pitagórico''>`devoráis unos a otros`</interp>` por la incuria de vuestra inteligencia?<br>
    `</div>`  
    
    
