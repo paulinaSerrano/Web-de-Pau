@@ -58,9 +58,6 @@ Da click en las siguientes ligas para enterarte de actividades orientadas a pens
    `<div type=''Fragmento''>`  
    
    `<idno type=''Fragmento DK''>`107(115)`</idno>`  
-   
-    
-   <br>
     
    Hay un decreto de `<distinct type=''deidad antigua>`Necesidad`</distinct>`, de antiguo refrendado por los dioses,<br>  
    
@@ -90,26 +87,20 @@ Da click en las siguientes ligas para enterarte de actividades orientadas a pens
    
    y es que en la `<term type=''concepto filosófico''>`discordia`</term>` enloquecida puse mi confianza.  
    
-   `</div>`
+   `</div>`  
+     
+     
 
+   `<div type=''Fragmento''>`  
    
-   <br>
-
+   `<idno type=''Fragmento DK''>`113(121)`</idno>`  
    
-   `<div type=''Fragmento''>`
-   `<idno type=''Fragmento DK''>`113(121)`</idno>`
     
+   Un `<emph type=''metáfora''>`sitio ingrato`</emph>`,<br>  
+   
+   donde el crimen, la inquina y otros seres funestos en tropel,<br>  
     
-   <br>
-    
-   Un `<emph type=''metáfora''>`sitio ingrato`</emph>`,<br>
-    
-    
-   donde el crimen, la inquina y otros seres funestos en tropel,<br>
-    
-    
-   enfermedades miserables, podres, a más de hidropesías,<br>
-    
+   enfermedades miserables, podres, a más de hidropesías,<br>  
     
    por el prado de `<term type=''concepto filosófico''>`Ruina`</term>`, andan en lo oscuro merodeando.<br>
    `</div>`
@@ -118,58 +109,41 @@ Da click en las siguientes ligas para enterarte de actividades orientadas a pens
    <br>
 
    
-   `<div type=''Fragmento''>`
+   `<div type=''Fragmento''>`  
+   
    `<idno type=''Fragmento DK''>`120(139)`</idno>`
     
-    
-   <br>
-    
-    
-   ¡Ay de mí, que no acabó conmigo un día implacable,<br>
-    
+   ¡Ay de mí, que no acabó conmigo un día implacable,<br>  
     
    antes de concebir la `<interp type=''allusion''>`acción abominable`</interp>` de que `<interp type=''theme related to pythagoreanism''>`mis labios devoraran carne`</interp>`!
-   `</div>`
-
+   `</div>`  
    
-   <br>
-
+  
+   `<div type=''Fragmento''>`  
    
-   `<div type=''Fragmento''>`
-   `<idno type=''Fragmento DK''>`122(136)`</idno>`
+   `<idno type=''Fragmento DK''>`122(136)`</idno>`  
     
-    
-   ¿No pondréis fin a esta `<interp type=''image''>`matanza disonante`</interp>` ¿No estáis viendo<br>
-    
+   ¿No pondréis fin a esta `<interp type=''image''>`matanza disonante`</interp>` ¿No estáis viendo<br>  
     
    que os `<interp type=''theme related to pythagoreanism''>`devoráis unos a otros`</interp>` por la incuria de vuestra inteligencia?<br>
-   `</div>`
-
-   
-   <br>
+   `</div>`  
    
    
-   `<div type=''Fragmento''>`
-  `<idno type=''FRagmento DK''>`124(137)`</idno>`
+   `<div type=''Fragmento''>`  
+   
+  `<idno type=''FRagmento DK''>`124(137)`</idno>`  
     
+   Alza el padre a un hijo suyo transmutado en su figura<br>  
     
-   Alza el padre a un hijo suyo transmutado en su figura<br>
+   y entre plegarias se apresta a degollarlo, el enorme infeliz. Y los otros, sin saber lo que hacen,<br>  
     
+   lo sacrifican, aun cuando los implora. Pero aquél, sordo a los quejidos,<br>  
+   
+   después de degollarlo, en las estancias dispone el  `<interp type=''allusion to devoran carne''>`sórdido festín`</interp>`.<br>  
     
-   y entre plegarias se apresta a degollarlo, el enorme infeliz. Y los otros, sin saber lo que hacen,<br>
+   De igual modo un hijo que toma a su padre o a su madre<br>  
     
-    
-   lo sacrifican, aun cuando los implora. Pero aquél, sordo a los quejidos,<br>
-    
-    
-   después de degollarlo, en las estancias dispone el  `<interp type=''allusion to devoran carne''>`sórdido festín`</interp>`.<br> 
-    
-    
-   De igual modo un hijo que toma a su padre o a su madre<br>
-    
-    
-   unos niños<br>
-    
+   unos niños<br>  
     
    les arrancan la vida y  `<distinct type=''precepto pitagórico''>`devoran la carne antes amada`</distinct>`.<br>
    `</div>`
