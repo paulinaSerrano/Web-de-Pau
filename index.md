@@ -131,7 +131,7 @@ Empleando el recurso argumentativo de la Edad de Oro, el autor, pone de relieve 
     
    ¡Ay de mí, que no acabó conmigo un día implacable,<br>  
     
-   antes de concebir la `<interp type=''allusion''>`acción abominable`</interp>` de que `<interp type=''theme related to pythagoreanism''>`mis labios devoraran carne`</interp>`!
+   antes de concebir la `<interp type=''allusion''>`acción abominable`</interp>` de que `<interp type=''theme relacionado con el pitagorismo''>`mis labios devoraran carne`</interp>`!
    `</div>`  
    
    
