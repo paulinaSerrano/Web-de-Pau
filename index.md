@@ -168,7 +168,11 @@ Empleando el recurso argumentativo de la Edad de Oro, el autor, pone de relieve 
    unos niños<br>  
     
    les arrancan la vida y  `<distinct type=''precepto pitagórico''>`devoran la carne antes amada`</distinct>`.<br>
-   `</div>`
-  `</body>`
- `</text>`
-`</TEI>`
+   `</div>`  
+   
+  `</body>`  
+  
+ `</text>`  
+ 
+`</TEI>`  
+
